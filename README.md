@@ -1,1 +1,1 @@
-# cs3219-otot-task-e
+# Simple RESTful API
